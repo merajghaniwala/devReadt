@@ -13,4 +13,5 @@ versionCode = "10" >
 	<name>devReady</name>
 	<description>Basic Compass app</description>
 	<author href="http://natescode.com" email="nate@natescode.com">Nathan Hedglin</author>
+	<origin access="*" />
 </widget>
